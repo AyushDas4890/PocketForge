@@ -1,0 +1,12 @@
+{
+  "name": "pocketforge",
+  "owner": { "name": "Ayush Das", "url": "https://github.com/AyushDas4890" },
+  "plugins": [
+    {
+      "name": "pocketforge",
+      "source": "./",
+      "description": "Research-to-ebook pipeline with gates, an original mascot and KDP-ready exports.",
+      "version": "1.0.0"
+    }
+  ]
+}

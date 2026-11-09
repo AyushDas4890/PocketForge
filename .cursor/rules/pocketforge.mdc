@@ -1,0 +1,6 @@
+---
+description: PocketForge ebook pipeline rules
+alwaysApply: true
+---
+
+Follow `AGENTS.md` at the repo root and the rule book in `templates/CLAUDE.md` for all PocketForge work. Load `skills/*/SKILL.md` before the matching task, use `agents/*.md` as role playbooks, and run `node scripts/gates/run-all.mjs <chapter.md>` after every edit to `projects/*/manuscript/chNN.md`.

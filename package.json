@@ -1,0 +1,25 @@
+{
+  "name": "pocketforge",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test scripts/gates/*.test.mjs",
+    "gates": "node scripts/gates/run-all.mjs",
+    "render:pose": "node scripts/character/render-poses.mjs",
+    "render:sheet": "node scripts/character/render-sheet.mjs",
+    "render:anim": "node scripts/character/render-anim.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "ffmpeg-static": "^5.3.0",
+    "hyperframes": "^0.9.23",
+    "playwright": "^1.65.0"
+  },
+  "version": "1.0.0",
+  "description": "Research-to-ebook agent pipeline",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AyushDas4890/pocketforge"
+  }
+}

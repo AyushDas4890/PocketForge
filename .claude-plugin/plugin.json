@@ -1,0 +1,10 @@
+{
+  "name": "pocketforge",
+  "version": "1.0.0",
+  "description": "Research-to-ebook pipeline: find a profitable niche, write a fully sourced illustrated ebook with an original mascot, and export PDF, EPUB, KDP paperback, worksheets, listing images and animations.",
+  "author": { "name": "Ayush Das", "url": "https://github.com/AyushDas4890" },
+  "homepage": "https://github.com/AyushDas4890/pocketforge",
+  "repository": "https://github.com/AyushDas4890/pocketforge",
+  "license": "MIT",
+  "keywords": ["ebook", "kdp", "self-publishing", "content", "research", "pdf", "epub", "mascot"]
+}

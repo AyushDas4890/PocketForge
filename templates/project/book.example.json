@@ -1,0 +1,65 @@
+{
+  "title": "Childcare and Rent for Single Moms",
+  "subtitle": "A Step-by-Step Paycheck System for the Daycare Bill, the Rent Due Date and a Month That Doesn't End in Overdraft",
+  "coverTitle": "Childcare and Rent",
+  "coverTitleAccent": "for Single Moms",
+  "shortSubtitle": "A step-by-step paycheck system for the daycare bill and the rent due date",
+  "author": "Ayush Das",
+  "year": 2026,
+  "lang": "en-US",
+  "mascot": "Tally",
+  "disclaimer": "Educational information, not tax, legal or financial advice.",
+  "asOf": "Figures as of November 2026.",
+  "about": "was written by Ayush Das as a step-by-step paycheck system for single parents who pay for childcare and rent from one income.",
+  "blurb": [
+    "Daycare and rent are the two biggest bills on one paycheck. This workbook shows you how to pay them first, on the right payday, every month.",
+    "Nine short chapters walk you through checking childcare help, the 2026 care credit and FSA, school breaks, child support gaps and a first $400 buffer.",
+    "Each chapter ends with a one-page worksheet, and every figure in the book is footnoted to its source."
+  ],
+  "nextStepsHtml": "<ol><li><strong>Put the four 90-Day Price Check dates in your calendar.</strong> Chapter 9 explains the check. Set the four dates now, about three months apart, so the review happens without you remembering it.</li><li><strong>Start Chapter 1's Payday Map before your next payday.</strong> List every pay date and bill date for the next eight weeks and circle the first red day. Every worksheet after it uses that page.</li></ol><p>Come back to the other worksheets as each one applies: the Big Two Lockbox, the Subsidy Ladder Check, the FSA-or-Credit Fork, the Care Gap Calendar, the Three-Box Tax Check, the Zero Line Budget and Support Log, and the 4x100 Buffer Tracker.</p><p class=\"small\">Rules on childcare help, taxes and child support change. Check each one with the agency named in its chapter before you rely on it.</p>",
+  "creditsNote": "Illustrations of the guide character, the chapter scenes and the charts were created for this book from original code. The cover art and the chapter-opening illustrations were generated with Higgsfield (Nano Banana 2) for this book. The photo below is licensed from Unsplash.",
+  "epubCredits": [
+    "<strong>Photo</strong> (How to use this book): \"Smiling woman carrying baby\" by Jonathan Borba, <a href=\"https://unsplash.com/photos/smiling-woman-carrying-baby-RWgE9_lKj_Y\">Unsplash</a>, used under the <a href=\"https://unsplash.com/license\">Unsplash License</a>.",
+    "<strong>Tally, the guide character</strong>: original mascot drawn in code for this book. Project-owned.",
+    "<strong>Charts and diagrams</strong>: rendered by script for this book from the sources in the endnotes. Charts marked hypothetical use made-up numbers. Project-owned.",
+    "<strong>Cover art and chapter illustrations</strong>: generated with Higgsfield (Nano Banana 2) for this book."
+  ],
+  "listing": {
+    "formatLine": "eBook (PDF) &nbsp;|&nbsp; 9 chapters &nbsp;|&nbsp; 9 worksheets",
+    "highlights": [
+      [
+        "The Payday Map",
+        1
+      ],
+      [
+        "The Big Two Lockbox",
+        2
+      ],
+      [
+        "The 4x100 Buffer",
+        8
+      ]
+    ],
+    "sampleFigure": "assets/figures/ch01-one-month-two-paychecks.png",
+    "mascotLine": "Tally points at the step that matters and warns you about the mistakes that cost money."
+  },
+  "art": {
+    "cover": "A young working mother holding her toddler's hand, walking from a cozy apartment building toward a small daycare with a sunny window, a paycheck envelope tucked under her arm, a gentle path connecting home and daycare.",
+    "chapters": [
+      "A mother at a kitchen table laying out a big wall calendar with colored sticky notes and a few bill envelopes, her toddler coloring beside her, evening lamp light.",
+      "A mother at the start of the month putting two envelopes, one shaped with a house icon and one with a crayon icon, into a lockbox before anything else, groceries waiting on the counter.",
+      "A mother sitting with a friendly caseworker at a community office desk, filling out an application on a tablet, a child playing with blocks on a rug nearby.",
+      "Two forked paths in a park, one leading to a small piggy bank on a pedestal and one leading to a folded tax form on a pedestal, a mother with a stroller pausing at the fork to choose.",
+      "A sick child wrapped in a blanket on a couch with a thermometer, a summer sun and a school bus visible through the window, the mother on the phone checking a calendar.",
+      "A mother at a desk in early spring sorting tax paperwork into neat piles with a calculator, a refund envelope arriving, a small potted plant blooming.",
+      "A mother confidently balancing a simple household budget on a sturdy old-fashioned scale on the kitchen table, one side groceries and bills, the other side a single wallet, steady and level.",
+      "A glass jar on a windowsill slowly filling with coins and folded bills, a small hand dropping in a coin, morning light.",
+      "A mother at a table reviewing a clipboard checklist, four small seasonal calendar pages pinned on the wall showing winter, spring, summer and autumn leaves."
+    ],
+    "promo": [
+      "A calm mother with coffee at a tidy kitchen table, an open workbook and pencil in front of her, everything feels under control.",
+      "Overhead flat-lay of a desk: an open workbook with blank planner pages, a pencil, a coffee mug, a small toy car and a house key.",
+      "Single scene, not a comic: a mother kneeling to hug her toddler goodbye at the bright doorway of a small daycare in the morning sun."
+    ]
+  }
+}

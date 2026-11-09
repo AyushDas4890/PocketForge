@@ -1,0 +1,3 @@
+# PocketForge
+
+@templates/CLAUDE.md
